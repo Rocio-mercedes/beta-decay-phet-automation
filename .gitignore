@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+prueba/
+medicion.log
+.~lock.*#
+plan_from_chatgpt
+
+# archivos que no son parte del TP
+rosas-inglesas.pdf
+Apunte_F2_Hoja*.png
